@@ -1,0 +1,68 @@
+.bluebold{
+    color:blue;
+    font-weight:bold;
+}
+
+.redbold{
+    color:red;
+    font-weight:bold;
+}
+
+.title{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+center{
+    text-align: center;
+}
+.header{
+    font-size: 30px;
+    font-weight:750;
+}
+
+.sub{
+    font-size: 20px;
+    font-weight: 650;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  
+}
+
+
+}
+#Wattpad{
+    background-color:orange;
+    font-style: italic
+
+}
+
+.center {
+    text-align: center;
+  }
+
+#YouTube{
+    background-color:red;
+    font-style: italic
+
+}
+
+#Twitch{
+    background-color:purple;
+    font-style: italic
+
+}
+
+.
+
+
+
+
+
+
+
